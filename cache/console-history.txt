@@ -1,0 +1,22 @@
+npx hardhat test
+npx hardhat node
+npx hardhat test
+npx hardhat test;
+npx hardhat test
+git intit -b main
+git intit
+git Clone https://github.com/Ali-7089/blockchain_bootcamp.git
+git clone https://github.com/Ali-7089/blockchain_bootcamp.git
+await ethers.utils.formatUnits(bal.toString());
+bal.toString();
+bal
+const bal = await ethers.provider.getBalance(accounts[0].address);
+const balance = await ethers.Provider.getBalance(accounts[0].address);
+accounts[0].address
+accounts[0]
+accounts
+const accounts = await ethers.getSigners();
+name
+const name = await Token.name();
+Token
+const Token = await ethers.getContractAt("Token","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
